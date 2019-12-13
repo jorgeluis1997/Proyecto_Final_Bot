@@ -316,43 +316,63 @@ LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 14.
 [1
 
-]) [2]
-
-! LaTeX Error: \begin{itemize} on input line 4 ended by \end{document}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.94 \end{document}
-                   
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-(Trabajo_Grupal.aux
+] [2]
+<./Imagenes/chatbot.png, id=15, 650.43pt x 377.91188pt>
+File: ./Imagenes/chatbot.png Graphic file (type png)
+<use ./Imagenes/chatbot.png>
+Package pdftex.def Info: ./Imagenes/chatbot.png  used on input line 86.
+(pdftex.def)             Requested size: 341.43306pt x 198.38364pt.
+<./Imagenes/nlp.png, id=17, 768.8725pt x 351.3125pt>
+File: ./Imagenes/nlp.png Graphic file (type png)
+<use ./Imagenes/nlp.png>
+Package pdftex.def Info: ./Imagenes/nlp.png  used on input line 105.
+(pdftex.def)             Requested size: 341.43306pt x 156.00925pt.
+<./Imagenes/api.png, id=18, 603.25375pt x 320.19624pt>
+File: ./Imagenes/api.png Graphic file (type png)
+<use ./Imagenes/api.png>
+Package pdftex.def Info: ./Imagenes/api.png  used on input line 117.
+(pdftex.def)             Requested size: 341.43306pt x 181.22389pt.
+ [3 <./Imagenes/chatbot.png> <./Imagenes/nlp.png>]
+<./Imagenes/web1.png, id=24, 1263.97218pt x 706.13812pt>
+File: ./Imagenes/web1.png Graphic file (type png)
+<use ./Imagenes/web1.png>
+Package pdftex.def Info: ./Imagenes/web1.png  used on input line 138.
+(pdftex.def)             Requested size: 341.43306pt x 190.74603pt.
+<./Imagenes/web.png, id=25, 1260.96094pt x 717.43031pt>
+File: ./Imagenes/web.png Graphic file (type png)
+<use ./Imagenes/web.png>
+Package pdftex.def Info: ./Imagenes/web.png  used on input line 141.
+(pdftex.def)             Requested size: 341.43306pt x 194.25612pt.
+ [4 <./Imagenes/api.png> <./Imagenes/web1.png>]
+<./Imagenes/back.png, id=31, 1261.71375pt x 727.21687pt>
+File: ./Imagenes/back.png Graphic file (type png)
+<use ./Imagenes/back.png>
+Package pdftex.def Info: ./Imagenes/back.png  used on input line 144.
+(pdftex.def)             Requested size: 341.43306pt x 196.79503pt.
+<./Imagenes/cronograma.jpg, id=32, 591.71063pt x 270.25969pt>
+File: ./Imagenes/cronograma.jpg Graphic file (type jpg)
+<use ./Imagenes/cronograma.jpg>
+Package pdftex.def Info: ./Imagenes/cronograma.jpg  used on input line 159.
+(pdftex.def)             Requested size: 341.43306pt x 155.9507pt.
+ [5 <./Imagenes/web.png> <./Imagenes/back.png> <./Imagenes/cronograma.jpg>]) [6
+] (Trabajo_Grupal.aux
 LaTeX Info: Redefining \. on input line 6.
 LaTeX Info: Redefining \% on input line 6.
- (Secciones/Actividad01.aux)) )
-(\end occurred inside a group at level 2)
-
-### semi simple group (level 2) entered at line 4 (\begingroup)
-### semi simple group (level 1) entered at line 2 (\begingroup)
-### bottom level 
+ (Secciones/Actividad01.aux)) ) 
 Here is how much of TeX's memory you used:
- 3629 strings out of 492946
- 48128 string characters out of 3143048
+ 3684 strings out of 492946
+ 49081 string characters out of 3143048
  136498 words of memory out of 3000000
- 7464 multiletter control sequences out of 15000+200000
- 5406 words of font info for 20 fonts, out of 3000000 for 9000
+ 7503 multiletter control sequences out of 15000+200000
+ 8261 words of font info for 30 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 34i,5n,31p,473b,401s stack positions out of 5000i,500n,10000p,200000b,50000s
-<D:/miktext/fonts/type1/public/amsfonts/cm/cmbx12.pfb><D:/mikte
-xt/fonts/type1/public/amsfonts/cm/cmr12.pfb><D:/miktext/fonts/type1/public/amsf
-onts/cm/cmsy10.pfb>
-Output written on Trabajo_Grupal.pdf (3 pages, 60911 bytes).
+ 34i,5n,31p,473b,359s stack positions out of 5000i,500n,10000p,200000b,50000s
+<D:/miktext/fonts/type1/public/amsfonts/cm/cmbx1
+2.pfb><D:/miktext/fonts/type1/public/amsfonts/cm/cmr12.pfb><D:/miktext/fonts/ty
+pe1/public/amsfonts/cm/cmsy10.pfb>
+Output written on Trabajo_Grupal.pdf (7 pages, 3057683 bytes).
 PDF statistics:
- 25 PDF objects out of 1000 (max. 8388607)
+ 53 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 41 words of extra memory for PDF output out of 10000 (max. 10000000)
 
